@@ -13,6 +13,6 @@ public class loquequieras : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        //cuesta mucho 
+        //cuesta mucho: cuesta muchisimo
     }
 }
